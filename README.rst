@@ -1,5 +1,5 @@
-cautious-invention
-==================
+cautious-invention |build|
+==========================
 
 This package can do everything you need
 
@@ -21,3 +21,6 @@ Usage
 
 Ipsum
 -----
+
+.. |build|:: https://travis-ci.com/MerktSimon/cautious-invention.svg?branch=master
+    :target: https://travis-ci.com/MerktSimon/cautious-invention
