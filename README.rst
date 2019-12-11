@@ -22,5 +22,5 @@ Usage
 Ipsum
 -----
 
-.. |build|:: https://travis-ci.com/MerktSimon/cautious-invention.svg?branch=master
+.. |build| image :: https://travis-ci.com/MerktSimon/cautious-invention.svg?branch=master
     :target: https://travis-ci.com/MerktSimon/cautious-invention
